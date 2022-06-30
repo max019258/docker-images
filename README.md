@@ -2,6 +2,7 @@
 
 
 <h2>도커를 실행하기 위하여 wsl2 설치 </h2><br>
+
 ![image](https://user-images.githubusercontent.com/71125201/176615561-2a0cc278-13b7-4982-ad68-472087a885c5.png) <br>
 
 <h2> 도커로 오라클 작동 시키기 </h2> <br>
@@ -33,6 +34,7 @@ $ docker commit oracle11g oracle11g_2  //container oracle11g를 oracle11g_2라�
 <h2> 도커로 python SimpleHTTPServer 작동 </h2> <br>
 <b>1.	alpine linux를 백그라운드로 실행 </b><br>
 $ docker run -d -it --name alpine alpine <br>
+
 ![image](https://user-images.githubusercontent.com/71125201/176617466-0e192464-ec23-4f41-9a65-57f8b94da62e.png) <br>
 
 <b>2. 실행중인 container의 쉘(sh)을 실행하고 터미널로 접속 </b><br>
