@@ -1,6 +1,7 @@
-# docker-images
+<h1>박중원이 오라클 및 파이썬 서버를 도커로 실행해 본 내역</h1>
 
-도커를 실행하기 위하여 wsl2 설치 <br>
+
+<h2>도커를 실행하기 위하여 wsl2 설치 </h2><br>
 ![image](https://user-images.githubusercontent.com/71125201/176615561-2a0cc278-13b7-4982-ad68-472087a885c5.png) <br>
 
 <h2> 도커로 오라클 작동 시키기 </h2> <br>
